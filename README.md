@@ -1,10 +1,12 @@
-# Hola, soy Alejandro Gadea Vicente 👋
+<img width="2056" height="765" alt="banner-desarrollador" src="https://github.com/user-attachments/assets/f23c423c-7e68-425c-9203-294fb1c26122" />
+
+# Hola, soy Alejandro Gadea Vicente 
 
 **Desarrollador de aplicaciones web y móviles** en Madrid. Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM) y en el último año de Desarrollo de Aplicaciones Web (DAW).
 
 Desarrollo apps Android nativas en Kotlin con Jetpack Compose y APIs REST con Java y Spring Boot. He hecho prácticas como desarrollador Android en ALTEN.
 
-🌐 **Portfolio:** [alejandro-gadea.vercel.app](https://alejandro-gadea.vercel.app)
+**Portfolio:** [alejandro-gadea.vercel.app](https://alejandro-gadea.vercel.app)
 
 ## Tecnologías
 
